@@ -549,6 +549,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"surroundings",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 1.0 Universal"
+                }],
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
@@ -18566,6 +18572,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
