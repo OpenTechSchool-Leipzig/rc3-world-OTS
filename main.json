@@ -110,7 +110,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.unerzogen-magazin.de\/artikel\/?articleID=857"
+                 "value":"https:\/\/medium.com\/opentechschool-leipzig\/ent-gendern-von-online-publikationen-ec7c40f9e490"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -511,7 +511,7 @@
                  "value":"https:\/\/cryptpad.fr\/pad\/#\/2\/pad\/view\/t0nUCUJIjUI-IHV3PqsnU+KUYDJcVF080pCcIjrLDMU\/embed\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -18518,6 +18518,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"05_sitzsack",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -18844,6 +18850,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"dk_garden",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -20478,6 +20490,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"fairydust",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":216,
          "tileheight":32,
@@ -22512,6 +22530,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"02_mate_crates_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":3,
          "tileheight":32,
@@ -22553,6 +22577,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"22_tisch_weiss_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -22648,6 +22678,12 @@
          "imagewidth":65,
          "margin":0,
          "name":"furious-clicker",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -22698,6 +22734,12 @@
          "imagewidth":65,
          "margin":0,
          "name":"flying-toilet-paper-tile",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -22918,6 +22960,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"hackerinnen-sticker",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
